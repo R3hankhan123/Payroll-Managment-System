@@ -1,5 +1,4 @@
 # Payroll-Managment-System
-It is a python program for managing payrolls using a mysql server.
-It stores the phone numbers,designation and names of the employees,then one can also add their salary details
+By using a MYSQL database, it uses CLI to store the information of employees and store the payroll information of the employees. 
+One can search an employee on the basis of their payroll or their designation.
 Just make sure you change the password,user and database according to your mysql sever.
-Any changes to the code are welcomed.
